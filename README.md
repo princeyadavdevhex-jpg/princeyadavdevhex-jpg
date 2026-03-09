@@ -34,6 +34,10 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=princeyadavdevhex-jpg&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=princeyadavdevhex-jpg&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+</p>
+
 ---
 
 ### 📈 GitHub Statistics:
