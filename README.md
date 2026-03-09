@@ -23,6 +23,11 @@
 </p>
 
 ---
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact)
+
+
+https://github-readme-stats.vercel.app/api/wakatime?username=princeyadavdevhex-jpg=tokyonight&layout=compact
+
 
 ## 📊 GitHub Stats:
 ![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princeyadav&show_icons=true&theme=radical)
